@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sensor Context Engine</string>
+    <string name="service_channel_name">情境感知服务</string>
+    <string name="recommendation_channel_name">个性化建议</string>
+</resources>

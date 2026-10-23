@@ -1,0 +1,22 @@
+# Gradle / Android
+.gradle/
+**/build/
+android/local.properties
+*.iml
+.idea/
+
+# Native build outputs
+.cxx/
+.externalNativeBuild/
+
+# Runtime data and models
+data/
+*.apk
+*.aab
+*.bin
+*.onnx
+*.tflite
+
+# Host noise
+.DS_Store
+*.log
